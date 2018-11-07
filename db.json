@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "body": "some comment",
@@ -9,4 +9,5 @@
     "body": "some comment",
     "postId": 1
   }
-]
+
+}
